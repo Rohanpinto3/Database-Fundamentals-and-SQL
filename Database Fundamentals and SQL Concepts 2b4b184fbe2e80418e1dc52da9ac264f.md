@@ -359,7 +359,7 @@ The `success` column in the `log_in_attempts` table contains values of `TRU
 
 A join combines data from two tables when they share a related column. Each table usually holds part of the information, and a join lets you see the full picture.
 
-![image.png](image.png)
+![image.png](images/image.png)
 
 **Why joins matter:**
 
@@ -428,7 +428,7 @@ Example idea:
 
 All employees, even ones with no assigned machine.
 
-![image.png](image%201.png)
+![image.png](images/image%201.png)
 
 so here when we use light join 
 
@@ -444,7 +444,7 @@ All machines, including ones that belong to no employee.
 
 (Not all SQL engines support RIGHT JOIN; SQLite doesn’t.)
 
-![image.png](image%202.png)
+![image.png](images/image%202.png)
 
 # **FULL OUTER JOIN**
 
@@ -460,4 +460,4 @@ A complete combined view of employees and machines, even if they don't connect.
 
 (Some engines require workarounds, since not all support it directly.)
 
-![image.png](image%203.png)
+![image.png](images/image%203.png)
