@@ -1,3 +1,5 @@
+
+
 # Database Fundamentals and SQL Concepts
 
 ---
@@ -22,10 +24,12 @@ The goal of this repository is to document my learning journey, reinforce key SQ
 
 ## Notes
 
-- [Database Fundamentals and SQL Concepts](Database-Fundamentals-and-SQL-Concepts.md)
+- [Database Fundamentals and SQL Concepts](https://github.com/Rohanpinto3/Database-Fundamentals-and-SQL/blob/main/Database%20Fundamentals%20and%20SQL%20Concepts%202b4b184fbe2e80418e1dc52da9ac264f.md)
+  
 
 ## Why This Repository?
 
 I use SQL to query and analyze security-related data stored in databases. Understanding SQL is an essential skill for investigating alerts, searching logs, identifying suspicious activity, and supporting incident response.
 
 This repository serves as my personal knowledge base and will continue to grow as I learn more advanced SQL concepts and apply them to cybersecurity scenarios.
+
